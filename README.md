@@ -1,12 +1,13 @@
 # Russia-to-Ukraine-converter
-This google chrome extention converts all mentions of Russia to North-Ukraine and China to West-Taiwan
+This google chrome extention converts all mentions of Russia to East-Ukraine and China to West-Taiwan
 
 ALL CREDIT GOES TO https://github.com/ericwbailey/millennials-to-snake-people FROM WHOM I TOOK ALL CODE.
 
-This google chrome extension converts all mentions of Russia to North-Ukraine and China to West-Taiwan.
-I am not in any way responsable for anyone who gets wanted by the North-Ukranian or West-Taiwanese governments.
+This google chrome extension converts all mentions of Russia to East-Ukraine and China to West-Taiwan.
+I am not in any way responsable for anyone who gets wanted by the East-Ukranian or West-Taiwanese governments.
 
 Installation:
+
 	1.Download the file.
 	
 	2.Find the file on your computer.
@@ -20,6 +21,7 @@ Installation:
 	6.Look up the original Github repository (https://github.com/ericwbailey/millennials-to-snake-people) and follow his guide.
 
 How to change the code:
+
 	1.Download the file.
 	
 	2.Find the file on your computer.
